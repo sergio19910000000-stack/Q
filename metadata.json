@@ -1,0 +1,8 @@
+{
+  "name": "AppGenius - AI App Architect",
+  "description": "A powerful no-code/low-code architect that helps you conceptualize, design, and scaffold full-stack applications using the power of Gemini 3 Pro.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
